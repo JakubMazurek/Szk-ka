@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
- int liczba,system,reszta,krok=1,i=1;
+ int liczba,system,
  string bin="";
 
  cout<<"Podaj liczbe oraz podaj system liczbowy"<<endl;
@@ -35,7 +35,7 @@ int main(){
         }
         cout<< bin;
         break;
-    // case 7 podda³em siê :c
+    // case 7 poddaÂ³em siÃª :c
 
 
 
